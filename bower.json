@@ -1,0 +1,35 @@
+{
+  "name": "dashboard",
+  "description": "",
+  "main": "index.html",
+  "authors": [
+    "Michael Scofield"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "animate.css": "^3.5.1",
+    "bootstrap": "^3.3.6",
+    "jquery": "^2.2.3",
+    "angular": "^1.5.5",
+    "angular-sanitize": "^1.5.5",
+    "extras.angular.plus": "^0.9.3",
+    "moment": "^2.13.0",
+    "angular-ui-router": "^0.3.0",
+    "toastr": "^2.1.2",
+    "angular-animate": "^1.5.5",
+    "mdi": "^1.6.50"
+  },
+  "devDependencies": {
+    "bardjs": "^0.1.8",
+    "angular-mocks": "^1.5.5",
+    "sinon": "^1.17.4"
+  }
+}
